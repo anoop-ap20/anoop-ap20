@@ -9,12 +9,13 @@ Check out my projects, drop a ⭐ if something catches your eye, and let’s con
 ---
 
 ### Language and Tools
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />                  
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Power BI Logo" width="30px" style="padding-right:10px;" img src="[https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg](https://download.logo.wine/logo/Power_BI/Power_BI-Logo.wine.png)" />
-<img align="left" alt="SolidWorks Logo" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/SolidWorks_Logo.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+<img align="left" alt="Visual Basic" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />                  
+<img align="left" alt="C Plus Plus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Fusion 360" width="30px" style="padding-right:10px;" src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/fusion-360-product-design-extension-2023-simplified-badge-75x75.png" />
+<img align="left" alt="SolidWorks" width="90px" style="padding-right:10px;" src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg" />
 
 <br />                   
 

@@ -2,7 +2,7 @@
 
 **'Data-Driven Playmaker (Data Wiz/Engineer/Footballer)'**
 
-A Industrial Engineer in the making with a passion for data analytics, process optimization, and automation. Data is Everywhere-- hidden in plain sight, waiting to be unraveled. Numbers longing to be turned into stories, visual arts and spreadsheets of insights. In this part of the universe, I decode the language of numbers and bring them to life through visualizations. I loving making data work smarter, not harder. 
+An Industrial Engineer in the making with a passion for data analytics, process optimization, and automation. Data is Everywhere-- hidden in plain sight, waiting to be unraveled. Numbers longing to be turned into stories, visual arts and spreadsheets of insights. In this part of the universe, I decode the language of numbers and bring them to life through visualizations. I loving making data work smarter, not harder. 
 
 Check out my projects, drop a ⭐ if something catches your eye, and let’s connect on LinkedIn! "[Anoop Shankar](https://www.linkedin.com/in/anoopshankarap/)".
 

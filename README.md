@@ -1,6 +1,6 @@
-# anoop-ap
+# ⚽ Anoop Shankar
 
-**'Data-Driven Playmaker (Footballer/Engineer/Data Wiz)'**
+**'Data-Driven Playmaker (Data Wiz/Engineer/Footballer)'**
 
 A Industrial Engineer in the making with a passion for data analytics, process optimization, and automation. Data is Everywhere-- hidden in plain sight, waiting to be unraveled. Numbers longing to be turned into stories, visual arts and spreadsheets of insights. In this part of the universe, I decode the language of numbers and bring them to life through visualizations. I loving making data work smarter, not harder. 
 
